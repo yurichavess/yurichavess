@@ -16,7 +16,7 @@ personal projects, and continuous learning.
 ### 🚀 Technologies I'm currently learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
 </p>
 
 
