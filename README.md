@@ -6,7 +6,7 @@
 ### 💻 Computer Science Student
 
 I am a Computer Science student passionate about technology, 
-cybersecurity, programming, and software development.
+cybersecurity, programming and software development.
 
 Currently developing my skills through academic projects,
 personal projects, and continuous learning.
@@ -32,7 +32,13 @@ personal projects, and continuous learning.
 ### 🌐 Connect with me
 
 <p align="center">
+  <a href="mailto:yuridiaschaves15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/yurichavess">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
