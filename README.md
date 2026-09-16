@@ -21,12 +21,6 @@ personal projects, and continuous learning.
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurichavess&show_icons=true&theme=dark" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
